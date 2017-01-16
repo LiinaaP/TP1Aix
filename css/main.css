@@ -1,10 +1,14 @@
 
 
 h1{
-	background-color: red;
+	background-color: yellow;
 	margin: 20px;
 }
 
 body{
 	background-color: green;
+}
+
+p{
+	color: blue;
 }
