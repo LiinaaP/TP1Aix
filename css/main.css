@@ -1,7 +1,10 @@
-*{
-	font-style: arial;
-}
+
 
 h1{
 	background-color: red;
+	margin: 30px;
+}
+
+body{
+	background-color: green;
 }
